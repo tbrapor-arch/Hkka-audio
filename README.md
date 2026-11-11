@@ -20,7 +20,7 @@ Licence: 政府資料開放授權條款-第1版 (Open Government Data License, T
 ## `tts/`: synthetic voice, VoxHakka
 The course's titles (`<L>-00`), dialogue lines (`<L>-<nn>`), exercise answers (`ex/<L>-f01` fill, `ex/<L>-t01`
 translate) and the new words that have no Council recording (`words/`), in Sixian and Hailu. `L` = lesson 001–100
-(進修: P01–P70). `tts/manifest.json` gives, for each file, the text, the spoken pinyin (with tone sandhi), the IPA
+(進修: P01–P70; the two extra stories 外篇 1–2: P71, P72). 進修 is Sixian only. `tts/manifest.json` gives, for each file, the text, the spoken pinyin (with tone sandhi), the IPA
 sent to the model, the voice and the character speaking.
 
 Generated with VoxHakka, model `formospeech/yourtts-htia-240704` (United Link and National United University),
