@@ -190,12 +190,12 @@
   "kind": "line",
   "speaker": "阿姆",
   "voice": "HF",
-  "hanzi": "歡迎！來，Sam，這係若个間房。",
-  "pinyin": "fonˋ ngiang! loi, Sam, liaˊ heˇ ngia gaiˇ gienˋ fong.",
-  "spoken": "fonˋ ngiang! loi, sam, lia+ heˇ ngia gaiˇ gienˋ fong.",
-  "ipa": "f-on_53 ŋ-iaŋ_55 ， l-oi_55 ， s-am_55 ， l-ia_33 h-e_11 ŋ-ia_55 k-ai_11 k-ien_53 f-oŋ_55",
+  "hanzi": "歡迎！來，Sam，這係若間房。",
+  "pinyin": "fonˋ ngiang! loi, Sam, liaˊ heˇ ngia gienˋ fong.",
+  "spoken": "fonˋ ngiang! loi, sam, lia+ heˇ ngia gienˋ fong.",
+  "ipa": "f-on_53 ŋ-iaŋ_55 ， l-oi_55 ， s-am_55 ， l-ia_33 h-e_11 ŋ-ia_55 k-ien_53 f-oŋ_55",
   "file": "hailu/002-07.m4a",
-  "hash": "8e8bcf9a2084adda"
+  "hash": "3e5026895615b54a"
  },
  "hailu/002-08": {
   "kind": "line",
@@ -59901,10 +59901,10 @@
   "voice": "XM",
   "hanzi": "第一課：字母。A、B、C。",
   "pinyin": "ti idˋ ko: sii muˊ. A, B, C.",
-  "spoken": "ti idˋ ko: sii muˊ. a, b, c.",
-  "ipa": "tʰ-i_55 it_2 kʰ-o_55 ， s-ɨ_55 m-u_24 ， a_55",
-  "file": null,
-  "failed": "no IPA for b c"
+  "spoken": "ti idˋ ko: sii muˊ. e, bi, xi.",
+  "ipa": "tʰ-i_55 it_2 kʰ-o_55 ， s-ɨ_55 m-u_24 ， e_55 ， p-i_55 ， ɕ-i_55",
+  "file": "sixian/P04-28.m4a",
+  "hash": "7115b86382a0bb21"
  },
  "sixian/P04-29": {
   "kind": "line",
@@ -60649,12 +60649,12 @@
   "kind": "line",
   "speaker": "阿姆",
   "voice": "胡祺梓",
-  "hanzi": "Sam，你个房間仰般？",
-  "pinyin": "Sam, nˇ ge fongˇ gienˊ ngiongˋ banˊ?",
-  "spoken": "sam, nˇ ge fongˇ gienˊ ngiongˋ banˊ?",
-  "ipa": "s-am_55 ， n̩_11 k-e_55 f-oŋ_11 k-ien_24 ŋ-ioŋ_31 p-an_24",
+  "hanzi": "Sam，若房間仰般？",
+  "pinyin": "Sam, ngiaˊ fongˇ gienˊ ngiongˋ banˊ?",
+  "spoken": "sam, ngiaˊ fongˇ gienˊ ngiongˋ banˊ?",
+  "ipa": "s-am_55 ， ŋ-ia_24 f-oŋ_11 k-ien_24 ŋ-ioŋ_31 p-an_24",
   "file": "sixian/P07-06.m4a",
-  "hash": "cb3090786f346834"
+  "hash": "5678ddcb5f8aa6d9"
  },
  "sixian/P07-07": {
   "kind": "line",
@@ -63643,23 +63643,23 @@
   "kind": "line",
   "speaker": "narrator",
   "voice": "XF",
-  "hanzi": "阿雄來𠊎間房讀書，準備下禮拜个報告。",
-  "pinyin": "aˊ hiungˇ loiˇ ngaiˇ gienˊ fongˇ tug suˊ, zunˋ pi ha liˊ bai ge bo go.",
-  "spoken": "aˊ hiungˇ loiˇ ngaiˇ gienˊ fongˇ tug suˊ, zunˋ pi ha liˇ bai ge bo go.",
-  "ipa": "a_24 h-iuŋ_11 l-oi_11 ŋ-ai_11 k-ien_24 f-oŋ_11 tʰ-uk_5 s-u_24 ， t͡s-un_31 pʰ-i_55 h-a_55 l-i_11 p-ai_55 k-e_55 p-o_55 k-o_55",
+  "hanzi": "阿雄來吾間房讀書，準備下禮拜个報告。",
+  "pinyin": "aˊ hiungˇ loiˇ ngaˊ gienˊ fongˇ tug suˊ, zunˋ pi ha liˊ bai ge bo go.",
+  "spoken": "aˊ hiungˇ loiˇ ngaˇ gienˊ fongˇ tug suˊ, zunˋ pi ha liˇ bai ge bo go.",
+  "ipa": "a_24 h-iuŋ_11 l-oi_11 ŋ-a_11 k-ien_24 f-oŋ_11 tʰ-uk_5 s-u_24 ， t͡s-un_31 pʰ-i_55 h-a_55 l-i_11 p-ai_55 k-e_55 p-o_55 k-o_55",
   "file": "sixian/P17-02.m4a",
-  "hash": "bb2782c715bd6cce"
+  "hash": "d9946dc3d256442a"
  },
  "sixian/P17-03": {
   "kind": "line",
   "speaker": "阿雄",
   "voice": "HM",
-  "hanzi": "你間房蚊仔恁多，𠊎个腳分蚊仔叼到紅紅。",
-  "pinyin": "nˇ gienˊ fongˇ munˊ eˋ anˋ doˊ, ngaiˇ ge giogˋ bunˊ munˊ eˋ diauˊ do fungˇ fungˇ.",
-  "spoken": "nˇ gienˊ fongˇ munˊ eˋ anˋ doˊ, ngaiˇ ge giogˋ bunˇ munˊ eˋ diauˇ do fungˇ fungˇ.",
-  "ipa": "n̩_11 k-ien_24 f-oŋ_11 m-un_24 e_31 an_31 t-o_24 ， ŋ-ai_11 k-e_55 k-iok_2 p-un_11 m-un_24 e_31 t-iau_11 t-o_55 f-uŋ_11 f-uŋ_11",
+  "hanzi": "若間房蚊仔恁多，𠊎个腳分蚊仔叼到紅紅。",
+  "pinyin": "ngiaˊ gienˊ fongˇ munˊ eˋ anˋ doˊ, ngaiˇ ge giogˋ bunˊ munˊ eˋ diauˊ do fungˇ fungˇ.",
+  "spoken": "ngiaˇ gienˊ fongˇ munˊ eˋ anˋ doˊ, ngaiˇ ge giogˋ bunˇ munˊ eˋ diauˇ do fungˇ fungˇ.",
+  "ipa": "ŋ-ia_11 k-ien_24 f-oŋ_11 m-un_24 e_31 an_31 t-o_24 ， ŋ-ai_11 k-e_55 k-iok_2 p-un_11 m-un_24 e_31 t-iau_11 t-o_55 f-uŋ_11 f-uŋ_11",
   "file": "sixian/P17-03.m4a",
-  "hash": "ede6fdd72e7262ff"
+  "hash": "fbb59fcadd5645f9"
  },
  "sixian/P17-04": {
   "kind": "line",
@@ -85699,12 +85699,12 @@
   "kind": "ex",
   "speaker": "narrator",
   "voice": "XF",
-  "hanzi": "這係𠊎个間房，該係吾老弟个。",
-  "pinyin": "iaˋ he ngaiˇ ge gienˊ fongˇ, ge he ngaˊ loˋ taiˊ ge.",
-  "spoken": "iaˋ he ngaiˇ ge gienˊ fongˇ, ge he ngaˊ loˋ taiˇ ge.",
-  "ipa": "ia_31 h-e_55 ŋ-ai_11 k-e_55 k-ien_24 f-oŋ_11 ， k-e_55 h-e_55 ŋ-a_24 l-o_31 tʰ-ai_11 k-e_55",
+  "hanzi": "這係吾間房，該係吾老弟个。",
+  "pinyin": "iaˋ he ngaˊ gienˊ fongˇ, ge he ngaˊ loˋ taiˊ ge.",
+  "spoken": "iaˋ he ngaˇ gienˊ fongˇ, ge he ngaˊ loˋ taiˇ ge.",
+  "ipa": "ia_31 h-e_55 ŋ-a_11 k-ien_24 f-oŋ_11 ， k-e_55 h-e_55 ŋ-a_24 l-o_31 tʰ-ai_11 k-e_55",
   "file": "sixian/ex/007-t02.m4a",
-  "hash": "dd5bbc5ff6c218d0"
+  "hash": "a51fe226776e670c"
  },
  "sixian/ex/007-t03": {
   "kind": "ex",
